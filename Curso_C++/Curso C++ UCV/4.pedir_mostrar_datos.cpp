@@ -33,6 +33,7 @@ int main() {
     return 0;  
 }
 
+
 /*Ejecute el programa del ejercicio anterior con entradas erróneas y observe los resultados.
 Por ejemplo, introduzca un tipo de caracter erróneo cuando se espera un dato tipo entero*/
 
